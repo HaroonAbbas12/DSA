@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>        //updating an array
 using namespace std;
 
 int main() {
